@@ -1,0 +1,1 @@
+C:\Github\SoftwareDevC1Team2\MusicApp\MusicApp\MusicApp.csproj;x86
